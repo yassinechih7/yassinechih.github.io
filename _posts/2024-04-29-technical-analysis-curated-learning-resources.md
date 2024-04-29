@@ -11,7 +11,6 @@ my approach of chosing the following resources was often mentioned in [Wikipedia
 - [Dynamic Technical Analysis](https://www.amazon.com/Dynamic-Technical-Analysis-Philippe-Cahen/dp/047189947X)
 recommended as further reading by John Bollinger
 - [Technical analysis from A to Z](https://www.amazon.com/Technical-Analysis-2nd-Steven-Achelis/dp/0071826297)
-- [Advanced Techniques in Day Trading: A Practical Guide to High Probability Strategies and Methods (Stock Market Trading and Investing)](https://www.amazon.com/Advanced-Techniques-Day-Trading-Probability/dp/1721151265)
 - [Technical Analysis: The Complete Resource for Financial Market Technicians](https://www.amazon.com/Technical-Analysis-Complete-Financial-Technicians-dp-0134137043/dp/0134137043/ref=dp_ob_title_bk)
 - [Encyclopedia of Chart Patterns](https://www.amazon.com/Encyclopedia-Chart-Patterns-Wiley-Trading-dp-1119739683/dp/1119739683/ref=dp_ob_title_bk)
 
