@@ -5,3 +5,4 @@ title: |-
   model
 date: 2024-05-13 03:11 +0100
 ---
+trying to replicating this paper
