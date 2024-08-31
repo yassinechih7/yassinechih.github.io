@@ -1,0 +1,4 @@
+{% for col in site.collections %}
+  <h2>{{ col.name }}</h2>
+  <p>{{ col.content | markdownify }}</p>
+{% endfor %}
