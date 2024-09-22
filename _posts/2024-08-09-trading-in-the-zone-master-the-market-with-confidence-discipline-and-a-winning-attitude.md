@@ -4,6 +4,7 @@ title:
   "Trading in the Zone: Master the Market with Confidence, Discipline, and a
   Winning Attitude"
 date: 2024-08-09 19:03 +0100
+tags: jekyll coding
 ---
 
 # CHAPTER 1: THE ROAD TO SUCCESS: FUNDAMENTAL, TECHNICAL, OR MENTAL ANALYSIS?
